@@ -1,4 +1,4 @@
-## 🔐 Steganography Tool - Hide Secrets in Images & Emojis
+##  Steganography Tool - Hide Secrets in Images & Emojis
 
 A powerful Python tool to hide secret messages in images and convert text to emoji sequences with military-grade encryption. Perfect for privacy enthusiasts, cybersecurity students, and anyone who loves digital mysteries!
 
@@ -6,20 +6,20 @@ GitHub Repository: https://github.com/abhiexploits/Steganography
 
 ---
 
-## ✨ Features
+##  Features
 
-### · 📸 Image Steganography - Hide text in PNG/JPG images using LSB method
-### · 😊 Emoji Steganography - Convert text to emoji sequences and back
-### · 🔐 AES-256 Encryption - Password protect your secrets
-### · 🖼️ Image Preservation - Maintain original image quality
-### · 📁 Custom Paths - Full control over input/output files
-### · 📱 Cross-Platform - Works on Termux & Linux
-### · 🎮 Interactive Menu - Easy-to-use interface
-### · ⚡ CLI Support - Command-line automation
+### ·  Image Steganography - Hide text in PNG/JPG images using LSB method
+### ·  Emoji Steganography - Convert text to emoji sequences and back
+### ·  AES-256 Encryption - Password protect your secrets
+### ·  Image Preservation - Maintain original image quality
+### ·  Custom Paths - Full control over input/output files
+### ·  Cross-Platform - Works on Termux & Linux
+### ·  Interactive Menu - Easy-to-use interface
+### ·  CLI Support - Command-line automation
 
 ---
 
-# 🚀 Quick Start
+# Quick Start
 
 ### Termux (Android) Installation
 
@@ -62,9 +62,9 @@ python main.py
 
 ---
 
-### 📖 Usage Examples
+###  Usage Examples
 
-🎮 Interactive Mode (Easy)
+ Interactive Mode (Easy)
 
 ```bash
 python main.py
@@ -72,7 +72,7 @@ python main.py
 
 Then follow the on-screen menus to encode/decode messages!
 
-### ⚡ Command Line Mode (Fast)
+###  Command Line Mode (Fast)
 
 1. Hide Text in Image
 
@@ -151,7 +151,7 @@ print(f"Emojis: {emojis}")
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Steganography/
@@ -189,7 +189,7 @@ Supported Formats
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Love this tool? Want to make it better? Contributions are welcome!
 
@@ -211,7 +211,7 @@ python -m pytest tests/
 
 ---
 
-## ❓ FAQ
+##  FAQ
 
 #### Q: Is this tool safe to use?
 
@@ -235,7 +235,7 @@ python -m pytest tests/
 
 ---
 
-# 📊 Performance Tips
+#  Performance Tips
 
 1. Use PNG for output - Better quality than JPG
 2. Large images for long messages - More pixels = more space
@@ -244,7 +244,7 @@ python -m pytest tests/
 
 ---
 
-## 🎨 Example Workflow
+##  Example Workflow
 
 Scenario: Send a secret birthday message
 
@@ -267,7 +267,7 @@ Scenario: Send a secret birthday message
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 This tool is for educational and legitimate privacy purposes only. Do not use it for:
 
@@ -280,7 +280,7 @@ The developer is not responsible for misuse of this tool.
 
 ---
 
-## 📞 Support
+##  Support
 
 Found a bug? Need help? Here's what to do:
 
@@ -291,17 +291,17 @@ Found a bug? Need help? Here's what to do:
 
 ---
 
-## 🌟 Show Some Love
+##  Show Some Love
 
 If this tool helped you:
 
-· ⭐ Star the repository on GitHub
-· 🍴 Fork it for your own projects
-· 🔗 Share with friends
-· 💻 Contribute code improvements
+·  Star the repository on GitHub
+·  Fork it for your own projects
+·  Share with friends
+·  Contribute code improvements
 
 
-## 🔗 Links
+##  Links
 
 · GitHub: https://github.com/abhiexploits/Steganography
 · Report Bug: https://github.com/abhiexploits/Steganography/issues
@@ -317,7 +317,7 @@ Last Updated: January 2026 | Version: 1.0.0
 
 ---
 
-## 📱 Quick Copy-Paste Commands
+##  Quick Copy-Paste Commands
 
 For Termux Users:
 
@@ -338,4 +338,4 @@ python main.py -m emoji -a decode -t "😀😂🥰😎🤖👻" -p test123
 
 ---
 
-🎯 Pro Tip: Bookmark this page and star the GitHub repo to stay updated!
+Pro Tip: Bookmark this page and star the GitHub repo to stay updated!
